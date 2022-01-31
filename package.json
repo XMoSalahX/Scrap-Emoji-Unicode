@@ -1,0 +1,15 @@
+{
+  "name": "testwebscraping",
+  "version": "1.0.0",
+  "description": "This is for test description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Salah",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "puppeteer": "^13.1.2"
+  }
+}
